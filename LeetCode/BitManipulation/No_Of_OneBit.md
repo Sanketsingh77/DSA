@@ -11,6 +11,7 @@ n = n >> 1 right shifts the number by 1 bit and this happends till the number be
 
 class Solution {
 public:
+
     int hammingWeight(uint32_t n) {
         int count = 0;
         while(n != 0)
