@@ -1,4 +1,5 @@
 Problem: [Chips Factory](https://www.interviewbit.com/problems/chips-factory/)
+
 Difficulty - Easy
 
     int k=-1;
