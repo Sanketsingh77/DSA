@@ -1,3 +1,4 @@
+https://www.interviewbit.com/problems/arraybug/
 /*
 The following code is supposed to rotate the array A by B positions.
 
