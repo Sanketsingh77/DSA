@@ -7,6 +7,7 @@ at each iteration removing the just used leftmost bit with a right shift: >> 1.
 
 class Solution {
 public:
+
     uint32_t reverseBits(uint32_t n) {
         uint32_t result= 0;
         for(int i=0; i<32; i++)
