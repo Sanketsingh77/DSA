@@ -1,5 +1,5 @@
-Problem - [GreaterThanAll](https://www.interviewbit.com/problems/greater-than-all/discussion/p/solution-and-explanation/362921/2817/)
-#
+# Problem - [GreaterThanAll](https://www.interviewbit.com/problems/greater-than-all/discussion/p/solution-and-explanation/362921/2817/)
+
 Difficulty - Easy
 
 the count of elements that are greater than previous greater element. 
