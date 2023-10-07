@@ -1,6 +1,5 @@
 https://www.interviewbit.com/problems/pythagorean-triplets/
 
-
  int count = 0;
  int arr[A+1];
  arr[0]=0;
