@@ -18,6 +18,7 @@ vector<int> Solution::rotateArray(vector<int> &A, int B) {
 }
 */
 
+
 vector<int> Solution::rotateArray(vector<int> &A, int B) {
     vector<int> ret;
     for (int i = 0; i < A.size(); i++) {
