@@ -10,6 +10,7 @@ int Solution::isPrime(int A) {
     return 1;
 }
 
+
 https://www.interviewbit.com/problems/mathbug01/
 */
 
