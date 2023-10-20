@@ -5,6 +5,7 @@ Return a deep copy of the list.
 
 Example
 
+
 Given list
 
    1 -> 2 -> 3
