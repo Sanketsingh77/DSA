@@ -2,7 +2,6 @@
 https://www.interviewbit.com/problems/array-sum/
 */
 
-
 vector<int> Solution::addArrays(vector<int> &A, vector<int> &B) {
     if(A.size()<B.size()) A.swap(B); // making A bigger than B
     int i=A.size()-1, j=B.size()-1, carry=0, sum=0;
