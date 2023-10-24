@@ -5,7 +5,6 @@ Example :
 
 Input :
 
-
 A : [1 5 3]
 k : 2
 Output :
