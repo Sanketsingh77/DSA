@@ -1,4 +1,4 @@
-https://www.interviewbit.com/problems/arraybug/
+//https://www.interviewbit.com/problems/arraybug/
 /*
 
 
