@@ -3,7 +3,6 @@ For Given Number N find if its COLORFUL number or not
 
 Return 0/1
 
-
 COLORFUL number:
 
 
