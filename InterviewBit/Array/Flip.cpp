@@ -1,6 +1,5 @@
 // https://www.interviewbit.com/problems/flip/
 
-
 vector<int> Solution::flip(string A) {
 
     int check = 0, another_check = 0;
