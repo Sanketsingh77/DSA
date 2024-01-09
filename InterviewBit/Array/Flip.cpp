@@ -3,6 +3,7 @@
 
 vector<int> Solution::flip(string A) {
 
+
     int check = 0, another_check = 0;
     int left, right, left_final, right_final;
     int temp1 = 0, max1 = 0;
